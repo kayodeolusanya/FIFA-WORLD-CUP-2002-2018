@@ -16,6 +16,8 @@ played in every tournament. The other World Cup winners are
 Germany and Italy, with four titles each; Argentina, France, and
 inaugural winner Uruguay, with two titles each; and England and
 Spain, with one title each.
+
 This dashboard shows the summary of all data in the World cup from 2002 to 2018.
+Microsoft Excel was used in cleaning the data and Power BI was used to design the dashboard.
 
 <img src="power%20BI%20project%20screenshot.png" width = "900">
